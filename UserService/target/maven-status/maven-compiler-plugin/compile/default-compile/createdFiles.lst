@@ -1,0 +1,6 @@
+com\sit\cloudnative\UserService\UserServiceApplication.class
+com\sit\cloudnative\UserService\User\User\User.class
+com\sit\cloudnative\UserService\User\User\UserService.class
+com\sit\cloudnative\UserService\User\User\UserRepository.class
+com\sit\cloudnative\UserService\User\User\ResourceNotFoundException.class
+com\sit\cloudnative\UserService\User\User\UserController.class

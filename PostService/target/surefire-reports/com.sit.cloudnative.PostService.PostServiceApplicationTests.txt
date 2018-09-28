@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sit.cloudnative.PostService.PostServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.061 s - in com.sit.cloudnative.PostService.PostServiceApplicationTests

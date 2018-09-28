@@ -1,0 +1,14 @@
+com\sit\cloudnative\PostService\Comment\CommentController.class
+com\sit\cloudnative\PostService\Comment\CommentService.class
+com\sit\cloudnative\PostService\Comment\ResourceNotFoundException.class
+com\sit\cloudnative\PostService\UserAdapter\UserAdapter.class
+com\sit\cloudnative\PostService\Comment\CommentRepository.class
+com\sit\cloudnative\PostService\Comment\Comment.class
+com\sit\cloudnative\PostService\Post\ResourceNotFoundException.class
+com\sit\cloudnative\PostService\Post\Post.class
+com\sit\cloudnative\PostService\Post\PostService.class
+com\sit\cloudnative\PostService\UserAdapter\User.class
+com\sit\cloudnative\PostService\Post\AllList.class
+com\sit\cloudnative\PostService\PostServiceApplication.class
+com\sit\cloudnative\PostService\Post\PostRepository.class
+com\sit\cloudnative\PostService\Post\PostController.class
